@@ -2,11 +2,14 @@
 
 ## Play Now
 
+
 Ready to begin your dark musical journey? Choose your preferred platform:
 
 🎮 [Play on Sprunki Retake Free Play](https://sprunkipy.click)
 
 🎵 [Play on Sprunki Original](https://sprunkipy.click/original.html)
+
+![Sprunki Game](https://sprunkionline.com/images/sprunki-retake.png)
 
 **Embark on the Melodic Journey of Sprunki Incredibox Retake! 🎶🎵**
 
