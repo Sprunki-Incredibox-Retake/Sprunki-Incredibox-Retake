@@ -9,7 +9,7 @@ Ready to begin your dark musical journey? Choose your preferred platform:
 
 🎵 [Play on Sprunki Original](https://sprunkipy.click/original.html)
 
-![Sprunki Game](https://sprunkionline.com/images/sprunki-retake.png)
+![Sprunki Game](https://sprunkipy.click/sprunki/retake.png)
 
 **Embark on the Melodic Journey of Sprunki Incredibox Retake! 🎶🎵**
 
